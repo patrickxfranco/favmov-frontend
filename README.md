@@ -8,6 +8,9 @@ O intuito é dar ao usuário a possibilidade de gerenciar seus links de onde ass
 ## Qual intuito?
 O intuito da aplicação é permitir que o usuário gerencie seus links em uma interfaca amigável e bonita, de uma forma rápida e dinâmica, por este motivo, não é necessário criar uma conta. Todas as informações são armazenadas no localStorage do seu navegador, com isso, todas as informações estarão sempre disponíveis pra você.
 
+## Como posso pegar as informações de formatação?
+Eu criei um figma para este projeto mas a realidade é que fiz algumas alterações durante o desenvolvimento, portanto terá algumas diferenças, mas se quiser, o link para o projeto no figma é [este](https://www.figma.com/design/9qybq8v8eMwyhdShVXz9OW/favmov?node-id=0%3A1&t=ZiY5bl2od44WVjp5-1):
+
 ## Como é a interface da aplicação?
 Veja abaixo:
 
