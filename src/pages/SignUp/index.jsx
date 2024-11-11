@@ -1,14 +1,15 @@
 import { Container, ButtonSignIn, ButtonSignUp } from './styles';
 
-import { MdOutlinePersonOutline, MdLockOutline } from 'react-icons/md';
+import { MdOutlinePersonOutline, MdLockOutline, MdOutlineBadge } from 'react-icons/md';
 
 import { Input } from '../../components/Input';
 
-export function SignIn() {
+export function SignUp() {
 	return (
 		<Container>
 			<main>
 				<form>
+					<Input icon={MdOutlineBadge} placeholder="Digite seu nome" id="input-name" />
 					<Input icon={MdOutlinePersonOutline} placeholder="Digite seu e-mail" id="input-email" />
 					<Input icon={MdLockOutline} placeholder="Digite sua senha" type="password" id="input-password" />
 				</form>
