@@ -6,7 +6,7 @@ Projeto pessoal desenvolvido com React + Vite
 O intuito é dar ao usuário a possibilidade de gerenciar seus links de onde assiste filmes e séries, isso acaba sendo mais útil para as pessoas que não possuem uma assinatura dos serviços de streaming e que acaba utilizando diversos sites para acessar os conteúdos. Pode server também como um atalho já que muitos destes sites que hospedam filmes e séries de forma ilícita acaba colocando muitos anúncios para chegar na página onde realmente está o player de vídeo, portanto, salvando os links direto do player no favmov você evita de ter que passar por diversas propagandas chatas que abrem outras 1000 guias em seu navagador.
 
 ## Qual intuito?
-O intuito da aplicação é permitir que o usuário gerencie seus links em uma interfaca amigável e bonita, de uma forma rápida e dinâmica, por este motivo, não é necessário criar uma conta. Todas as informações são armazenadas no localStorage do seu navegador, com isso, todas as informações estarão sempre disponíveis pra você.
+O intuito da aplicação é permitir que o usuário gerencie seus links em uma interfaca amigável e bonita, de uma forma rápida e dinâmica. Todas as informações são armazenadas no nosso banco de dados, com isso, todas as informações estarão sempre disponíveis pra você.
 
 ## Como posso pegar as informações de formatação?
 Eu criei um figma para este projeto mas a realidade é que fiz algumas alterações durante o desenvolvimento, portanto terá algumas diferenças, mas se quiser, o link para o projeto no figma é [este](https://www.figma.com/design/9qybq8v8eMwyhdShVXz9OW/favmov?node-id=0%3A1&t=ZiY5bl2od44WVjp5-1):
